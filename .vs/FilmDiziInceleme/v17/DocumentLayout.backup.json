@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|d:\\\u0130ndirilenler\\visual studio\\filmdiziinceleme\\filmdiziinceleme\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|solutionrelative:filmdiziinceleme\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|d:\\\u0130ndirilenler\\visual studio\\filmdiziinceleme\\filmdiziinceleme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|solutionrelative:filmdiziinceleme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|d:\\\u0130ndirilenler\\visual studio\\filmdiziinceleme\\filmdiziinceleme\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|solutionrelative:filmdiziinceleme\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|d:\\\u0130ndirilenler\\visual studio\\filmdiziinceleme\\filmdiziinceleme\\migrations\\20251224110535_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|solutionrelative:filmdiziinceleme\\migrations\\20251224110535_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|d:\\\u0130ndirilenler\\visual studio\\filmdiziinceleme\\filmdiziinceleme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|solutionrelative:filmdiziinceleme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|d:\\\u0130ndirilenler\\visual studio\\filmdiziinceleme\\filmdiziinceleme\\filmdiziinceleme.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|solutionrelative:filmdiziinceleme\\filmdiziinceleme.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\.gitignore",
+              "RelativeDocumentMoniker": "FilmDiziInceleme\\.gitignore",
+              "ToolTip": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\.gitignore",
+              "RelativeToolTip": "FilmDiziInceleme\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-24T12:43:43.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FilmDiziInceleme\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FilmDiziInceleme\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T11:58:37.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251224110535_InitialCreate.cs",
+              "DocumentMoniker": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\Migrations\\20251224110535_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FilmDiziInceleme\\Migrations\\20251224110535_InitialCreate.cs",
+              "ToolTip": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\Migrations\\20251224110535_InitialCreate.cs",
+              "RelativeToolTip": "FilmDiziInceleme\\Migrations\\20251224110535_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:05:36.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\Program.cs",
+              "RelativeDocumentMoniker": "FilmDiziInceleme\\Program.cs",
+              "ToolTip": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\Program.cs",
+              "RelativeToolTip": "FilmDiziInceleme\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T10:45:22.197Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmsController.cs",
+              "DocumentMoniker": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\Controllers\\FilmsController.cs",
+              "RelativeDocumentMoniker": "FilmDiziInceleme\\Controllers\\FilmsController.cs",
+              "ToolTip": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\Controllers\\FilmsController.cs",
+              "RelativeToolTip": "FilmDiziInceleme\\Controllers\\FilmsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T11:58:02.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmDiziInceleme",
+              "DocumentMoniker": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\FilmDiziInceleme.csproj",
+              "RelativeDocumentMoniker": "FilmDiziInceleme\\FilmDiziInceleme.csproj",
+              "ToolTip": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\FilmDiziInceleme.csproj",
+              "RelativeToolTip": "FilmDiziInceleme\\FilmDiziInceleme.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-24T10:16:16.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
