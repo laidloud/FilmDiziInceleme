@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|d:\\\u0130ndirilenler\\visual studio\\filmdiziinceleme\\filmdiziinceleme\\views\\films\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|solutionrelative:filmdiziinceleme\\views\\films\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|d:\\\u0130ndirilenler\\visual studio\\filmdiziinceleme\\filmdiziinceleme\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{632B6952-D575-406B-AF61-BFDA5958BDC7}|FilmDiziInceleme\\FilmDiziInceleme.csproj|solutionrelative:filmdiziinceleme\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\Views\\Films\\Create.cshtml",
-              "RelativeDocumentMoniker": "FilmDiziInceleme\\Views\\Films\\Create.cshtml",
-              "ToolTip": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\Views\\Films\\Create.cshtml",
-              "RelativeToolTip": "FilmDiziInceleme\\Views\\Films\\Create.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "FilmDiziInceleme\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\\u0130ndirilenler\\Visual Studio\\FilmDiziInceleme\\FilmDiziInceleme\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "FilmDiziInceleme\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-25T11:12:09.383Z",
+              "WhenOpened": "2025-12-25T12:32:08.295Z",
               "EditorCaption": ""
             },
             {
