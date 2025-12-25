@@ -1,30 +1,72 @@
-# Film & Dizi İnceleme Sitesi
+# Film & Dizi İnceleme Web Uygulaması
 
-Bu proje, Web Programlama dersi final ödevi için yapılmıştır.
+Bu proje, ASP.NET Core MVC kullanılarak geliştirilmiş bir Film ve Dizi İnceleme Web Uygulamasıdır. Uygulama, kullanıcıların film/dizi ekleyebildiği, listeleyebildiği, güncelleştirebildiği ve silebildiği (CRUD) bir sistem sunar.
 
-## Proje Hakkında
-Kullanıcıların film ve diziler hakkında incelemeler eklemek, listelemek, düzenlemek ve silmek için kullanabileceği bir web uygulaması.
+Proje, bir ders kapsamında hazırlanmış olup backend, veritabanı ve frontend bileşenlerini birlikte içermektedir.
+
+## Projenin Amacı
+- ASP.NET Core MVC Mimarisini öğrenmek
+- Entity Framework Core ile gerçek bir veritabanı kullanmak
+- CRUD işlemlerini uygulamalı olarak gerçekleştirmek
+- Responsive (mobil uyumlu) bir web arayüzü geliştirmek
+- Git & GitHub kullanarak proje versiyon kontrolü yapmaktır.
 
 ## Kullanılan Teknolojiler
 - ASP.NET Core MVC
 - Entity Framework Core
-- SQLite
-- HTML / CSS / Razor View
-- GitHub
+- SQLite 
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- Git & GitHub
 
-## Özellikler
-- Film/Dizi ekleme (Create)
-- Film/Dizi listeleme (Read)
-- Film/Dizi düzenleme (Update)
-- Film/Dizi silme (Delete)
+## Mimari Yapı
+Proje MVC (Model-View-Controller) mimarisi kullanılarak geliştirilmiştir.
+- Model: Veritabanı tablolarını temsil eder
+- View: Kullanıcıya gösterilen arayüzler
+- Controller: Kullanıcı isteklerini karşılar ve iş mantığını yönetir
 
-## Veritabanı Hakkında
-SQLite veritabanı dosyası (.db) GitHub'a yüklenmemiştir, uygulama çalıştırıldığında otomatik olarak oluşturulmaktadır.
+Bu yapı sayesinde kod okunabilirliği ve sürdürülebilirlik sağlanmıştır.
 
-## Kurulum 
-1. Proje bilgisayara indirilir
-2. Visual Studio ile açılır
-3. Çalıştırılır
+## Veritabanı Yapısı
+Projede SQLite veritabanı kullanılmıştır. Veritabanı, Entity Framework Core aracılığıyla otomatik olarak oluşturulmaktadır.
 
-## Geliştirici:
-- GitHub: (laidloud)
+## CRUD İşlemleri
+Uygulama aşağıdaki işlemleri desteklemektedir:
+- Create-Yeni film/dizi ekleme
+- Read-Film/dizi listeleme
+- Update-Film/dizi güncelleme
+- Delete-Film/dizi silme
+
+Tüm işlemler gerçek bir veritabanı üzerinde yapılmaktadır. 
+
+## Bonus Özellikler
+Projeye aşağıdaki ek özellikler (bonus) uygulanmıştır:
+- Arama özelliği (Film adına göre filtreleme)
+- Responsive tasarım (Mobil & tablet uyumlu)
+- Form validasyonu (Boş alan kontrolü)
+- Bootstrap ile modern kullanıcı arayüzü
+- Hakkında (About) sayfası
+- Anlamlı navigasyon yapısı
+
+## Projeyi Çalıştırma
+Projeyi çalıştırmak için:
+
+- Bu repoyu klonlayın: git clone https://github.com/laidloud/FilmDiziInceleme.git
+- Visual Studio ile projeyi açın
+- Ctrl+F5 ile çalıştırın
+- Veritabanı otomatik olarak oluşturulacaktır
+
+## Canlı Yayın (Deployment)
+Proje canlı yayına alınmak üzere Render, Railway ve Azure platformlarında denenmiştir, ancak ASP.NET Core MVC tabanlı backend uygulamalarının ücretsiz planlardaki teknik ve hesap kısıtlamaları nedeniyle deployment süreci tamamlanamamıştır.
+
+Buna rağmen, proje yerel ortamda eksiksiz şekilde çalışmakta olup, tüm CRUD ve bonus özellikler uygulanmıştır.
+
+## Geliştirici
+GitHub: https://github.com/laidloud 
+
+Proje: FilmDiziInceleme
+
+## Lisans
+Bu proje eğitim amaçlı geliştirilmiştir.
