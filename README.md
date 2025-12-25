@@ -60,6 +60,7 @@ Projeyi çalıştırmak için:
 
 ## Geliştirici
 GitHub: https://github.com/laidloud 
+
 Proje: FilmDiziInceleme
 
 ## Lisans
