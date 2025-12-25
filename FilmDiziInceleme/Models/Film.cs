@@ -5,7 +5,7 @@ namespace FilmDiziInceleme.Models
     {
         public int Id { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "Film adı boş bırakılamaz.")]
         public string Title { get; set; }
 
         [Required]
@@ -18,6 +18,7 @@ namespace FilmDiziInceleme.Models
         [Range(0, 10)]
         public float Rating { get; set; }
 
+        [Required(ErrorMessage = "Açıklama boş bırakılamaz.")]
         public string Description { get; set; }
 
         public DateTime CreatedTime { get; set; }

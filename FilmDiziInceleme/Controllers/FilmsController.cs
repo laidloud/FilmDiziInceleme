@@ -19,9 +19,16 @@ namespace FilmDiziInceleme.Controllers
         }
 
         // GET: Films
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string search)
         {
-            return View(await _context.Films.ToListAsync());
+            var films = _context.Films.AsQueryable();
+
+            if (!string.IsNullOrEmpty(search))
+            {
+                films = films.Where(f => f.Title.Contains(search));
+            }
+
+            return View(await films.ToListAsync());
         }
 
         // GET: Films/Details/5
