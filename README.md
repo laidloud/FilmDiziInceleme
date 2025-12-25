@@ -59,7 +59,7 @@ Projeyi çalıştırmak için:
 - Veritabanı otomatik olarak oluşturulacaktır
 
 ## Geliştirici
-GitHub: https://github.com/laidloud
+GitHub: https://github.com/laidloud 
 Proje: FilmDiziInceleme
 
 ## Lisans
