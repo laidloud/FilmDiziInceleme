@@ -64,5 +64,3 @@ Proje: FilmDiziInceleme
 
 ## Lisans
 Bu proje eğitim amaçlı geliştirilmiştir.
-## Geliştirici:
-- GitHub: (laidloud)
