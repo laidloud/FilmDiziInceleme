@@ -58,6 +58,11 @@ Projeyi çalıştırmak için:
 - Ctrl+F5 ile çalıştırın
 - Veritabanı otomatik olarak oluşturulacaktır
 
+## Canlı Yayın (Deployment)
+Proje canlı yayına alınmak üzere Render, Railway ve Azure platformlarında denenmiştir, ancak ASP.NET Core MVC tabanlı backend uygulamalarının ücretsiz planlardaki teknik ve hesap kısıtlamaları nedeniyle deployment süreci tamamlanamamıştır.
+
+Buna rağmen, proje yerel ortamda eksiksiz şekilde çalışmakta olup, tüm CRUD ve bonus özellikler uygulanmıştır.
+
 ## Geliştirici
 GitHub: https://github.com/laidloud 
 
